@@ -1,6 +1,9 @@
 # advertising-analytics
-#### Advertising analysis using a variety of techniques in python including LASSO regression, simple and slightly more complex multivariate regression, descriptive statistics and more.
-All of the data used in the scripts can be found in the datasets folder.
+### Advertising analysis using a variety of techniques in python including LASSO regression, simple and slightly more complex multivariate regression, descriptive statistics and more.
+All of the data used in the scripts can be found in the datasets folder. Most data was provided in graduate courses. Exceptions are noted as they arise.
+
+##### Russian Troll Ads
+Various analyses on Russian "Troll" Ads, using data from graduate courses as well as data released by Congress and other sources.
 
 ##### Accessing Census Data with an API using Python
 This is my first foray into using an API in Python. I used the Census Reporter API to gather data and perform basic analyses on it.

@@ -3,13 +3,13 @@
 All of the data used in the scripts can be found in the datasets folder. Most data was provided in graduate courses. Exceptions are noted as they arise.
 
 #### Russian Troll Ads 
-The *Russian Troll Ads* folder contains various analyses on Russian "Troll" Ads, using facebook and instagram data from graduate courses as well as data released by Congress and other sources. Topics include sentiment analysis using an API, and finding insights into click predictors with 'keras' neural net and `RandomForestRegressor`.
+The `Russian Troll Ads` folder contains various analyses on Russian "Troll" Ads, using facebook and instagram data from graduate courses as well as data released by Congress and other sources. Topics include sentiment analysis using an API, and finding insights into click predictors with 'keras' neural net and `RandomForestRegressor`.
 
 #### topic-modeling 
-The *topic-modeling* folder contains scripts relating to topic modeling for a brand using a data set of clothing and shoe reviews on Amazon.com.
+The `topic-modeling` folder contains scripts relating to topic modeling for a brand using a data set of clothing and shoe reviews on Amazon.com.
 
 #### data-visualization 
-The *data-visualization* folder contains visualizations done on a MLB batting data set.
+The `data-visualization` folder contains visualizations done on a MLB batting data set.
 
 #### The following files use the `data` folder: 
 ##### Accessing Census Data with an API 

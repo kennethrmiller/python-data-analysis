@@ -8,6 +8,7 @@ The *Russian Troll Ads* folder contains various analyses on Russian "Troll" Ads,
 #### topic-modeling (Python)
 The *topic-modeling* folder contains scripts relating to topic modeling for a brand using a data set of clothing and shoe reviews on Amazon.com.
 
+#### The following files use the `misc-data` folder: 
 ##### Accessing Census Data with an API (Python)
 This is my first foray into using an API in Python. I used the Census Reporter API to gather data and perform basic analyses on it.
 

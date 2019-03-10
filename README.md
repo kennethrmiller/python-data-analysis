@@ -8,6 +8,9 @@ The `Russian Troll Ads` folder contains various analyses on Russian "Troll" Ads,
 #### topic-modeling 
 The `topic-modeling` folder contains scripts relating to topic modeling for a brand using a data set of clothing and shoe reviews on Amazon.com.
 
+#### time-series
+The `time-series` folder contains a jupyter notebook outlining my steps on creating multiple time series analysis of AT&T search trend on Google using multiple advertising spend data sets, gathered from Ad$pender.
+
 #### data-visualization 
 The `data-visualization` folder contains visualizations done on a MLB batting data set.
 
